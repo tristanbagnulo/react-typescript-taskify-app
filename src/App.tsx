@@ -10,8 +10,7 @@ const App: React.FC = () => {
 
   //add from 32:40 to 37:10 https://www.youtube.com/watch?v=FJDVKeh7RJI
 
-  console.log(todo);
-  
+  console.log(todo);  
 
   return(
     <div className="App">
